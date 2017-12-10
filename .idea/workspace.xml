@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c3fa233-495e-4b59-b317-5d14cf7fb150" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elon Musk and Jeff Bezos.html" afterPath="$PROJECT_DIR$/Elon Musk and Jeff Bezos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html" afterPath="$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Elon Musk and Jeff Bezos.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Elon Musk and Jeff Bezos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Elon Musk and Jeff Bezos.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#object#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Angela Merkel and Vladimir Putin.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="1732" lean-forward="false" selection-start-line="7" selection-start-column="1732" selection-end-line="7" selection-end-column="1732" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -62,6 +76,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/Elon Musk and Jeff Bezos.html" />
+        <option value="$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html" />
       </list>
     </option>
   </component>
@@ -188,13 +203,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/putin_merkle.html" />
-    <entry file="file://$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jeremy Corbyn and Theresa May.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -224,6 +232,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#object#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angela Merkel and Vladimir Putin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1732" lean-forward="false" selection-start-line="7" selection-start-column="1732" selection-end-line="7" selection-end-column="1732" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
